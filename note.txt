@@ -1,0 +1,19 @@
+Git command
+
+git clone https://github.com/AlexAsenovSZ/lavka.git
+
+------
+git add *
+git commit -m 'message'
+git push 
+
+
+
+---------
+git pull 
+
+
+
+--------- Config Only 
+git config --global user.name 'Asenov'
+git config --global user.email 'aleksandar.asenov@zaimov-pl.com'
